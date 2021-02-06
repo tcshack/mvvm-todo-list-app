@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MVVM Architecture</string>
+    <string name="add_task_desc">Adding a task</string>
+    <string name="task_priority">Task Priority</string>
+    <string name="task_name">Task Name</string>
+    <string name="important_task">Important task</string>
+    <string name="add_or_update_task">Add or update a task</string>
+    <string name="search">Search</string>
+    <string name="sort">Sort</string>
+    <string name="sort_by_name">Sort by name</string>
+    <string name="sort_by_date_created">Sort by creation date</string>
+    <string name="hide_completed">Hide completed</string>
+    <string name="delete_completed">Delete completed</string>
+</resources>
